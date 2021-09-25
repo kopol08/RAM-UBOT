@@ -109,7 +109,7 @@ async def permitpm(event):
 
             if COUNT_PM[event.chat_id] > 5:
                 await event.respond(
-                    "`Bacot bat Jamet tolol, Gua blok ajalah`\n"
+                    "`sabar ya`\n"
                     f"`Tunggu {DEFAULTUSER} Bales ya`"
                 )
 
