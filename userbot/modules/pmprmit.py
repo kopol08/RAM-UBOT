@@ -28,15 +28,30 @@ from userbot.events import register
 DEFAULTUSER = str(ALIVE_NAME) if ALIVE_NAME else uname().node
 
 DEF_UNAPPROVED_MSG = (
-    f"**╭━━━━━━━━━━━━━━━━━╮**\n    🌟SELAMAT DATANG🌟\n"
-    "**╰━━━━━━━━━━━━━━━━━╯**\n"
-    "▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰\n"
-    f"**ANAK KONTOL ANAK NGENTOT,KALO NGECHAT MAJIKAN {DEFAULTUSER} ITU SALAM,\nHABIS ITU SABAR TUNGGU MAJIKAN GUA BALES,\nKALO GA DI BALES - BALES, LU JANGAN NYEPAM KONTOL, KAYA ANAK YATIM MAU MINTA SEMBAKO LU ANJING, APA LAGI LU NGECHAT NYA CUMA MINTA VCS, BISA GUA BLOKIR!! KALO NYEPAM JUGA TAR GUA BLOKIR!!!! TUNGGU SI {DEFAULTUSER} NERIMA PESAN LU**\n"
-    "▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰\n"
-    "╭✠╼━━━━━━❖━━━━━━━✠╮\n"
-    "┣[• 𝐁𝐎𝐓 𝐌𝐄𝐒𝐒𝐀𝐆𝐄\n"
-    "┣[• 𝐁𝐘 ⭐️𝐑𝐀𝐌-𝐔𝐁𝐎𝐓⭐️\n"
-    "╰✠╼━━━━━━❖━━━━━━━✠╯")
+    f"~FEE PENCAIRAN VOC INDODAX 
+
+10k - 999k = Fee Rp.5000
+1jt - 2jt = Fee Rp.10.000
+2jt - 3jt = Fee 0.5%
+3jt++ = Fee hanya 0.4% bosku
+
+Bisa CV to BCA/BRI/Dana
+Bisa juga Via Gopay (Namun, ada fee tambahan 1k)
+Beda bank bisa ? Bisa cuma fee tambahan + 5k
+Email wajib diisi
+( randijumaidil08@gmail.com )
+Cp : 082320137710/@KopoLKopoL08
+Grub : @PDEXCHANGE
+Testis : @PDKROYALITAS
+
+
+OPEN YA GUYS 👍 
+
+TRANSAKSI 👍
+Hanya di Jam 👎 
+            08:00-21.30 WIB 
+
+Fast Respon 🤗👍")
 # =================================================================
 
 
