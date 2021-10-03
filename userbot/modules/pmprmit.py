@@ -44,8 +44,7 @@ f"~FEE PENCAIRAN VOC INDODAX\n"
 "OPEN YA GUYS 👍 \n"
 "TRANSAKSI 👍\n"
 "Hanya di Jam 👎\n" 
-            "08:00-21.30 WIB\n" 
-
+"08:00-21.30 WIB\n"
 "Fast Respon 🤗👍")
 # =================================================================
 
