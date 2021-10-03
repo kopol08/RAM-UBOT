@@ -27,31 +27,26 @@ from userbot.events import register
 # ========================= CONSTANTS ============================
 DEFAULTUSER = str(ALIVE_NAME) if ALIVE_NAME else uname().node
 
-DEF_UNAPPROVED_MSG = (
-    f"~FEE PENCAIRAN VOC INDODAX 
+f"~FEE PENCAIRAN VOC INDODAX\n"
 
-10k - 999k = Fee Rp.5000
-1jt - 2jt = Fee Rp.10.000
-2jt - 3jt = Fee 0.5%
-3jt++ = Fee hanya 0.4% bosku
+"10k - 999k = Fee Rp.5000\n"
+"1jt - 2jt = Fee Rp.10.000\n"
+"2jt - 3jt = Fee 0.5%\n"
+"3jt++ = Fee hanya 0.4% bosku\n"
+"Bisa CV to BCA/BRI/Dana\n"
+"Bisa juga Via Gopay (Namun, ada fee tambahan 1k)\n"
+"Beda bank bisa ? Bisa cuma fee tambahan + 5k\n"
+"Email wajib diisi\n"
+"( randijumaidil08@gmail.com )\n"
+"Cp : 082320137710/@KopoLKopoL08\n"
+"Grub : @PDEXCHANGE\n"
+"Testis : @PDKROYALITAS\n"
+"OPEN YA GUYS 👍 \n"
+"TRANSAKSI 👍\n"
+"Hanya di Jam 👎\n" 
+            "08:00-21.30 WIB\n" 
 
-Bisa CV to BCA/BRI/Dana
-Bisa juga Via Gopay (Namun, ada fee tambahan 1k)
-Beda bank bisa ? Bisa cuma fee tambahan + 5k
-Email wajib diisi
-( randijumaidil08@gmail.com )
-Cp : 082320137710/@KopoLKopoL08
-Grub : @PDEXCHANGE
-Testis : @PDKROYALITAS
-
-
-OPEN YA GUYS 👍 
-
-TRANSAKSI 👍
-Hanya di Jam 👎 
-            08:00-21.30 WIB 
-
-Fast Respon 🤗👍")
+"Fast Respon 🤗👍")
 # =================================================================
 
 
