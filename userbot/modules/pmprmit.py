@@ -27,7 +27,8 @@ from userbot.events import register
 # ========================= CONSTANTS ============================
 DEFAULTUSER = str(ALIVE_NAME) if ALIVE_NAME else uname().node
 
-f"**╭━━━━━━━━━━━━━━━━━╮**\n    🌟SELAMAT DATANG🌟\n"
+DEF_UNAPPROVED_MSG = (
+    f"**╭━━━━━━━━━━━━━━━━━╮**\n    🌟SELAMAT DATANG🌟\n"
     "**╰━━━━━━━━━━━━━━━━━╯**\n"
     "▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰\n"
     f"**FEE PENCAIRAN VOC INDODAX OLEH {DEFAULTUSER} 10k - 999k = Fee Rp.5000,\n1jt - 2jt = Fee Rp.10.000,\n3jt++ = Fee hanya 0.4% bosku,\nBisa CV to BCA/BRI/Dana\nBisa juga Via Gopay (Namun, ada fee tambahan 1k),\nBeda bank bisa ? Bisa cuma fee tambahan + 5k\nEmail wajib diisi\n( randijumaidil08@gmail.com )\nCp : 082320137710/@KopoLKopoL08\nCp : 082320137710/@KopoLKopoL08\nTestis : @PDKROYALITAS\nOPEN YA GUYS 👍 \nTRANSAKSI 👍\nHanya di Jam 👎\n08:00-21.30 WIB\nFast Respon 🤗\nTunggu sampai di balas ya jangan ngespam nanti ke block {DEFAULTUSER} Okee**\n"
